@@ -2,7 +2,7 @@ const mongoose =require("mongoose");
 
 
 
-mongoose.connect("mongodburl");
+// mongoose.connect("mongodb+srv://agg:Password1248@cluster0.z759zs4.mongodb.net/chat_app");
 
 const UserSchema=new mongoose.Schema({
     firstname:String,

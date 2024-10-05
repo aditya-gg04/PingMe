@@ -1,3 +1,3 @@
 module.exports={
-    JWT_SECRET:"SHJADFHGSHJFDBDFSDFHSD"
+    JWT_SECRET:"RandomJwtSecret"
 }
